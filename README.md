@@ -210,7 +210,7 @@ Compile the project on the raspberry pi 4B+.
 
 ```
 
-git clone http://10.110.130.242:8081/liyanan/Levis.git
+git clone https://github.com/lenovo-voice/Levis.git
 cd Levis 
 ./compile.sh  
 
